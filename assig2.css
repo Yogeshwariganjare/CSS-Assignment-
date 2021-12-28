@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    color: black;
+  
+    
+
+}
+h2{
+    color: black;
+    text-decoration:line-through;
+  
+    
+}
+h3{
+    text-decoration: underline;
+   
+}
+h4{
+
+    color: #000;
+   
+}

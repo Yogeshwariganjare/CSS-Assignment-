@@ -1,0 +1,23 @@
+p{
+    border:5px;
+    border-style: solid;
+    border-color: black;
+    background-color: lightblue;
+}
+h4{
+    border:3px;
+    border-style: solid;
+    border-color: black;
+    background-color: lightblue;
+
+}
+h5{
+    border:1px;
+    border-style: solid;
+    border-color: black;
+    background-color: lightblue;
+}
+h3{
+    color: lightblue;
+    background-color: lightblue;
+}
